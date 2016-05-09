@@ -1,0 +1,59 @@
+﻿initial commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   browserconfig.xml
+#	new file:   css/bootstrap.css
+#	new file:   css/bootstrap.min.css
+#	new file:   css/custom-tailoring.css
+#	new file:   favicon.ico
+#	new file:   font-awesome/css/font-awesome.css
+#	new file:   font-awesome/css/font-awesome.min.css
+#	new file:   font-awesome/fonts/FontAwesome.otf
+#	new file:   font-awesome/fonts/fontawesome-webfont.eot
+#	new file:   font-awesome/fonts/fontawesome-webfont.svg
+#	new file:   font-awesome/fonts/fontawesome-webfont.ttf
+#	new file:   font-awesome/fonts/fontawesome-webfont.woff
+#	new file:   font-awesome/less/bordered-pulled.less
+#	new file:   font-awesome/less/core.less
+#	new file:   font-awesome/less/fixed-width.less
+#	new file:   font-awesome/less/font-awesome.less
+#	new file:   font-awesome/less/icons.less
+#	new file:   font-awesome/less/larger.less
+#	new file:   font-awesome/less/list.less
+#	new file:   font-awesome/less/mixins.less
+#	new file:   font-awesome/less/path.less
+#	new file:   font-awesome/less/rotated-flipped.less
+#	new file:   font-awesome/less/spinning.less
+#	new file:   font-awesome/less/stacked.less
+#	new file:   font-awesome/less/variables.less
+#	new file:   font-awesome/scss/_bordered-pulled.scss
+#	new file:   font-awesome/scss/_core.scss
+#	new file:   font-awesome/scss/_fixed-width.scss
+#	new file:   font-awesome/scss/_icons.scss
+#	new file:   font-awesome/scss/_larger.scss
+#	new file:   font-awesome/scss/_list.scss
+#	new file:   font-awesome/scss/_mixins.scss
+#	new file:   font-awesome/scss/_path.scss
+#	new file:   font-awesome/scss/_rotated-flipped.scss
+#	new file:   font-awesome/scss/_spinning.scss
+#	new file:   font-awesome/scss/_stacked.scss
+#	new file:   font-awesome/scss/_variables.scss
+#	new file:   font-awesome/scss/font-awesome.scss
+#	new file:   fonts/glyphicons-halflings-regular.eot
+#	new file:   fonts/glyphicons-halflings-regular.svg
+#	new file:   fonts/glyphicons-halflings-regular.ttf
+#	new file:   fonts/glyphicons-halflings-regular.woff
+#	new file:   fonts/glyphicons-halflings-regular.woff2
+#	new file:   img/sleeve.jpg
+#	new file:   img/suit.jpg
+#	new file:   index.html
+#	new file:   js/bootstrap.js
+#	new file:   js/bootstrap.min.js
+#	new file:   js/jquery.js
+#
+
